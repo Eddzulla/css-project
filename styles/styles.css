@@ -1,0 +1,45 @@
+body{
+    font-family: "Roboto", sans-serif;
+}
+.header{
+    background: #1F2937;
+    font-size: 24px;
+    color: #F9FAF8;
+    display: flex;
+    justify-content: space-around;
+}
+
+.header-links{
+    display: flex;
+    gap: 28px;
+    list-style-type: none;
+    font-size: 18px;
+    color: #E5E7EB;
+}
+
+li{
+    margin: auto;
+}
+
+a{
+    text-decoration: 0;
+    color: #F9FAF8;
+}
+.header-merge{
+    display: flex;
+    justify-content: space-around;
+    background: #1F2937;
+}
+
+.main-text{
+    font-size: 48px;
+    color: #F9FAF8;
+    font-weight: 900;
+}
+.secondary-text{
+    font-size: 18px;
+    color: #E5E7EB;
+}
+.sign-up-button{
+    color: #3882F6
+}
